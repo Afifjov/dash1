@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Project management icon">
+  <rect width="96" height="96" rx="18" fill="#005ca9"/>
+  <rect x="21" y="21" width="54" height="54" rx="8" fill="#ffffff"/>
+  <path d="M32 36h32M32 50h21M32 64h27" stroke="#005ca9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M25 28h46" stroke="#9bdcff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="67" cy="50" r="4" fill="#005ca9"/>
+  <circle cx="67" cy="64" r="4" fill="#005ca9"/>
+</svg>

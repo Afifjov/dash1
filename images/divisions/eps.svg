@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="EPS icon">
+  <rect width="96" height="96" rx="18" fill="#005ca9"/>
+  <path d="M22 70h52" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M29 65V39l19-12 19 12v26" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M37 65V48h22v17" fill="#9bdcff"/>
+  <path d="M48 27v38" stroke="#9bdcff" stroke-width="5" stroke-linecap="round"/>
+</svg>
